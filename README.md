@@ -28,6 +28,21 @@
   standard iOS experience, Anarchy provides a centralized place to explore.
 </p>
 
+<h2>Installation</h2>
+
+<p>
+  To access Anarchy, add the repository to your preferred compatible package
+  manager or app installer. Once added, browse the available categories to
+  discover apps, tweaks, and utilities for your device.
+</p>
+
+<ol>
+  <li>Open your compatible app installer.</li>
+  <li>Navigate to the repository or sources section.</li>
+  <li>Add the Anarchy repository URL.</li>
+  <li>Refresh the repository and browse its available packages.</li>
+</ol>
+
 <h2>Categories</h2>
 
 <div>
