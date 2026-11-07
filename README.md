@@ -6,6 +6,28 @@
 
 <br>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/anxrhy/Anarchy?style=flat-square&color=white" alt="Stars">
+  <img src="https://img.shields.io/github/forks/anxrhy/Anarchy?style=flat-square&color=white" alt="Forks">
+  <img src="https://img.shields.io/github/license/anxrhy/Anarchy?style=flat-square&color=white" alt="License">
+</p>
+
+<h2>About</h2>
+
+<p>
+  Anarchy is an alternative app repository for iOS, bringing together a wide
+  collection of apps, tweaks, utilities, and tools in one place. From popular
+  applications and third-party app stores to emulators, games, and modified
+  apps, Anarchy aims to make discovering new software for your device simple.
+</p>
+
+<p>
+  The repository is organized into categories to make browsing easier, with
+  dedicated sections for TrollStore, jailbreak, KFD, MacDirtyCow, and more.
+  Whether you're looking for everyday utilities or apps that go beyond the
+  standard iOS experience, Anarchy provides a centralized place to explore.
+</p>
+
 <h2>Categories</h2>
 
 <div>
