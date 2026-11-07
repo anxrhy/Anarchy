@@ -15,32 +15,34 @@
 <h2>About</h2>
 
 <p>
-  Anarchy is an alternative app repository for iOS, bringing together a wide
-  collection of apps, tweaks, utilities, and tools in one place. From popular
-  applications and third-party app stores to emulators, games, and modified
-  apps, Anarchy aims to make discovering new software for your device simple.
+  Anarchy is an alternative app source for iOS, built to bring a diverse
+  collection of applications into one accessible repository. It features
+  everything from popular apps and utilities to emulators, games, modified
+  applications, and tools designed to expand the possibilities of iOS.
 </p>
 
 <p>
-  The repository is organized into categories to make browsing easier, with
-  dedicated sections for TrollStore, jailbreak, KFD, MacDirtyCow, and more.
-  Whether you're looking for everyday utilities or apps that go beyond the
-  standard iOS experience, Anarchy provides a centralized place to explore.
+  With a collection organized into dedicated categories, Anarchy makes it
+  easier to discover software beyond the standard App Store experience.
+  Whether you're exploring alternative app stores, looking for useful
+  tweaks, or discovering new applications, Anarchy provides a centralized
+  source for finding them.
 </p>
 
 <h2>Installation</h2>
 
 <p>
-  To access Anarchy, add the repository to your preferred compatible package
-  manager or app installer. Once added, browse the available categories to
-  discover apps, tweaks, and utilities for your device.
+  Add Anarchy to a compatible iOS app installer to browse its available
+  applications. Once the source has been added, you can explore its
+  categories and install supported apps directly through your installer.
 </p>
 
 <ol>
-  <li>Open your compatible app installer.</li>
-  <li>Navigate to the repository or sources section.</li>
-  <li>Add the Anarchy repository URL.</li>
-  <li>Refresh the repository and browse its available packages.</li>
+  <li>Open a compatible app installer on your iOS device.</li>
+  <li>Navigate to its sources or repositories section.</li>
+  <li>Add the Anarchy source URL.</li>
+  <li>Refresh the source to load its available applications.</li>
+  <li>Browse the categories and install apps supported by your installer.</li>
 </ol>
 
 <h2>Categories</h2>
